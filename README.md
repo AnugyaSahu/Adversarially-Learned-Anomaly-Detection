@@ -1,3 +1,10 @@
+# Masters Seminar Paper
+- Presentation and Code implementation on a different dataset.
+- Use of Generative Adversarial Networks with two additional discriminator, generator and encoder.
+- Defines reconstruction error and anomaly score.
+- Anomaly is defined differently in context of different datasets.
+- CIFAR, SVHN, KDDCup99, Arrthymia datasets
+
 # Adversarially-Learned-Anomaly-Detection
 ALAD (Proceedings of IEEE ICDM 2018) official code
 
