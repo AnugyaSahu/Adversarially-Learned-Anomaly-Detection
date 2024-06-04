@@ -5,6 +5,8 @@
 - Anomaly is defined differently in context of different datasets.
 - CIFAR, SVHN, KDDCup99, Arrthymia datasets
 
+[2023]
+
 # Adversarially-Learned-Anomaly-Detection
 ALAD (Proceedings of IEEE ICDM 2018) official code
 
